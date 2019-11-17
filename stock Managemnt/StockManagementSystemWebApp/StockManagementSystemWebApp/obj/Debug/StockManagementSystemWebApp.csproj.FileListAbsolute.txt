@@ -1,0 +1,61 @@
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+D:\DotNet\Project 1\Rifat\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\C# info\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+D:\DotNet\Project 1\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project2\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Mahmudul Hasan\Desktop\New folder (2)\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Azam\Desktop\project3\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+F:\DotNet\SMS by NAUTIC\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojAssemblyReference.cache
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+C:\Users\Asif\Desktop\New folder (7)\Stock-Managment-System-master\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
