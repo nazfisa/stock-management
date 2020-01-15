@@ -410,7 +410,7 @@
                                     <div><i class="fa fa-bolt"></i></div>
                                     
                                     <!-- choose us item title & des -->
-                                    <h3>Khairul Islam Azam</h3>
+                                    <h3>Mohammad Nazim Uddin</h3>
                                     <p>Team Leader, Team Nautic</p>
                                 
                                 </div>
@@ -578,7 +578,7 @@
                     <div class="col-md-6">
                     
                         <div id="copyright">
-                            <p>Copyright &copy; 2018 <a href="#"> - Team Nautic</a></p>
+                            <p>Copyright &copy; 2019 <a href="#"> - Team Nautic</a></p>
                         </div>
                     </div>
                     <div class="col-md-6">
