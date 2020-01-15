@@ -287,65 +287,6 @@
             </div>
         
         
-        <!-- Testimonials -->
-        <section class="testimonial">
-        
-            <div class="testimonial-overlay">
-            
-                <div class="container">
-                
-                    <div class="row">
-                    
-                        <div class="col-md-12 wow bounceInDown">
-                        
-                        
-                            <div id="carousel-testimonial" class="carousel slide" data-ride="carousel">
-                            
-                            
-                                <!-- indicators -->
-                                <ol class="carousel-indicators">
-                                    <li data-target="#carousel-testimonial" data-slide-to="0" class="active"></li>
-                                    
-                                </ol>
-                                
-                                
-                                <!-- wrapper for slides -->
-                                <div class="carousel-inner">
-                                
-                                
-                                    <!-- item 01 -->
-                                    <div class="item active text-center">
-                                    
-                                    
-                                        <img src="../images/himel.jpg" alt="testimonial" class="center-block">
-                                        
-                                        <div class="testimonial-caption">
-                                        
-                                            <h2>Tayeb Himel</h2>
-                                            <h4><span> Instructor, </span>BITM</h4>
-                                        </div>
-                                        
-                                    
-                                    </div>
-                   
-                                </div>
-                                      
-                            </div>
-                          
-                        </div>
-                        
-                        
-                    </div>
-                
-                
-                </div>
-            
-            
-            </div>
-        
-        
-        
-        </section>
         
                 <!-- About Us -->
         <section id="ABOUT">
